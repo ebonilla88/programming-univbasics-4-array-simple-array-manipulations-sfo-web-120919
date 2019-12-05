@@ -39,6 +39,6 @@ def using_flatten(array)
 end 
 
 def using_delete_at(array, interger)
-  array.delete
+  array.delete_at
   
   
